@@ -1,5 +1,5 @@
 
-project using Kotlin in Android studio (Neighbourly - App for solution ideas for Economic crisis) 
+Project using Kotlin in Android studio (Neighbourly - App for solution ideas for Economic crisis) 
 
 Neighbourly is a mobile application built using Kotlin language aimed at reducing poverty and helping people in economic crises. The app connects volunteers and donors, where volunteers can sign up and provide their details. Donors can donate money or items, such as food, school accessories, and medical items. 
 
